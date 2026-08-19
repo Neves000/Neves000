@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="220" src="https://media.giphy.com/media/S58LRcDj84SZ3Nm3Yw/giphy.gif" alt="Kuromi">
+<img width="220" src="https://i.giphy.com/S58LRcDj84SZ3Nm3Yw.gif" alt="Kuromi">
 
 <br><br>
 
@@ -15,6 +15,14 @@ Hi there! I'm <b>Thays Brandino</b> ♡
 <br>
 Computer Engineering student from Brazil 🇧🇷
 </samp>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="34%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
 
 </div>
 
@@ -65,16 +73,7 @@ and projects that combine technology with creativity.
 
 <div align="center">
 
-<img width="34%" src="https://github.com/hak553/photoToProfile/blob/main/Programming%20Computer.svg" alt="Developer Laptop">
-
-</div>
-
-<br>
-<br>
-
-<div align="center">
-
-<img width="145" src="https://media.giphy.com/media/l2FSi4zPU5dnLyd7Q4/giphy.gif" alt="Kuromi">
+<img width="145" src="https://i.giphy.com/l2FSi4zPU5dnLyd7Q4.gif" alt="Kuromi">
 
 <br><br>
 
@@ -200,6 +199,109 @@ and projects that combine technology with creativity.
 <br>
 <br>
 
+##
+
+<br>
+
+<div align="center">
+
+<samp>
+<b>「 github stats 」</b>
+</samp>
+
+<br><br>
+
+<a href="https://github.com/Neves000">
+
+<img
+height="200"
+src="https://github-stats-extended.vercel.app/api?username=Neves000&show_icons=true&bg_color=0D1117&title_color=A855F7&icon_color=DC2626&text_color=FFFFFF&hide_border=true"
+alt="GitHub Stats">
+
+</a>
+
+<a href="https://github.com/Neves000">
+
+<img
+height="200"
+src="https://github-stats-extended.vercel.app/api/top-langs?username=Neves000&layout=compact&langs_count=8&card_width=320&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF&hide_border=true"
+alt="Top Languages">
+
+</a>
+
+</div>
+
+<br>
+<br>
+
+<div align="center">
+
+<samp>
+<b>「 contribution graph 」</b>
+</samp>
+
+<br><br>
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Neves000&bg_color=0D1117&color=A855F7&line=DC2626&point=FFFFFF&area=true&hide_border=true"
+alt="Thays's Contribution Graph">
+
+</div>
+
+<br>
+<br>
+
+<div align="center">
+
+<samp>
+<b>「 github streak 」</b>
+</samp>
+
+<br><br>
+
+<img
+src="https://github-readme-stats-fast.vercel.app/api/streak/?username=Neves000&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=DC2626&currStreakLabel=A855F7&sideLabels=FFFFFF&dates=777777"
+alt="GitHub Streak">
+
+</div>
+
+<br>
+<br>
+
+##
+
+<br>
+
+<div align="center">
+
+<samp>
+<b>「 github trophies 」</b>
+</samp>
+
+<br><br>
+
+<img
+src="https://github-profile-trophy.screw-hand.vercel.app/?username=Neves000&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"
+alt="GitHub Trophies">
+
+</div>
+
+<br>
+<br>
+
+<div align="center">
+
+<img width="120" src="https://i.giphy.com/KfBjG41ojhbrSNTElK.gif" alt="Kuromi">
+
+</div>
+
+<br>
+
+##
+
+<br>
+
 <div align="center">
 
 <samp>
@@ -223,17 +325,6 @@ and projects that combine technology with creativity.
 </div>
 
 <br>
-
-<div align="center">
-
-<img width="120" src="https://media.giphy.com/media/KfBjG41ojhbrSNTElK/giphy.gif" alt="Kuromi">
-
-</div>
-
-<br>
-
-##
-
 <br>
 
 <div align="center">
@@ -252,7 +343,10 @@ and projects that combine technology with creativity.
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:7C3AED,100:0D1117&height=100&section=footer" alt="Footer">
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:7C3AED,100:0D1117&height=100&section=footer"
+alt="Footer">
 
 </div>
 
