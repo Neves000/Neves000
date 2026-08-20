@@ -175,11 +175,7 @@ and projects that combine technology with creativity.
 <br><br>
 
 <samp>
-🌌 <b>Star Map</b> — interactive 3D astronomy project
-<br>
 🤖 <b>Robotics</b> — automation and hardware experiments
-<br>
-🌱 <b>Eco Casa</b> — technology applied to sustainability
 <br>
 🧰 <b>ERP System</b> — material and tool management system
 </samp>
