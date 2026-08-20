@@ -105,17 +105,9 @@ and projects that combine technology with creativity.
 <div align="center">
 
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ThreeJS-Dark.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
 
 </div>
@@ -134,9 +126,7 @@ and projects that combine technology with creativity.
 <img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A855F7">
 <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=A855F7">
 <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FACC15">
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00A98F">
+
 
 </div>
 
@@ -234,23 +224,7 @@ alt="Top Languages">
 <br>
 <br>
 
-<div align="center">
 
-<samp>
-<b>「 contribution graph 」</b>
-</samp>
-
-<br><br>
-
-<img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Neves000&bg_color=0D1117&color=A855F7&line=DC2626&point=FFFFFF&area=true&hide_border=true"
-alt="Thays's Contribution Graph">
-
-</div>
-
-<br>
-<br>
 
 <div align="center">
 
@@ -290,9 +264,11 @@ alt="GitHub Trophies">
 <br>
 <br>
 
-<div align="center">
+<div style="text-align: left;">
 
-<img width="120" src="https://i.giphy.com/KfBjG41ojhbrSNTElK.gif" alt="Kuromi">
+<img align="right" width="120" src="https://i.giphy.com/KfBjG41ojhbrSNTElK.gif" alt="Kuromi">
+<br clear="right">
+<br>
 
 </div>
 
